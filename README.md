@@ -1,6 +1,6 @@
 # SPM MRI Course: Advanced fMRI
 
-Materials for a [SPM MRI Course](https://fil.ion.ucl.ac.uk/spm/docs/courses/fmri_vbm/) workshop on advanced fMRI analysis with SPM. The accompanying [slides](advanced_fmri.pdf) cover visual quality control, motion-related artifacts and correction, accounting for within- and between-participant variability, optimising experimental design, and performing image calculations.
+Materials for a [SPM MRI Course](https://fil.ion.ucl.ac.uk/spm/docs/courses/fmri_vbm/) workshop on advanced fMRI analysis. The accompanying [slides](advanced_fmri.pdf) cover visual quality control, motion-related artifacts and correction, accounting for within- and between-participant variability, optimising experimental design, and performing image calculations.
 
 ## Practical materials
 
